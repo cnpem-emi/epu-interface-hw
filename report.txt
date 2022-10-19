@@ -1,0 +1,26 @@
+Informação: Processando o símbolo 'C1:Capacitor_SMD:C_0805_2012Metric'.
+Informação: Processando o símbolo 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Informação: Processando o símbolo 'C3:Capacitor_SMD:C_0805_2012Metric'.
+Informação: Processando o símbolo 'C4:Capacitor_SMD:C_0805_2012Metric'.
+Informação: Processando o símbolo 'C5:Capacitor_SMD:C_0805_2012Metric'.
+Informação: Processando o símbolo 'J1:Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical'.
+Informação: Processando o símbolo 'J2:Controle:RJ11-4P4C-HIROSE'.
+Informação: Processando o símbolo 'J3:Controle:RJ11-4P4C-HIROSE'.
+Informação: Processando o símbolo 'J4:Controle:RJ11-4P4C-HIROSE'.
+Informação: Processando o símbolo 'J5:Controle:RJ11-4P4C-HIROSE'.
+Informação: Processando o símbolo 'RN1:Resistor_THT:R_Array_SIP9'.
+Informação: Processando o símbolo 'RN2:Resistor_THT:R_Array_SIP9'.
+Informação: Processando o símbolo 'U1:Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm'.
+Informação: Processando o símbolo 'U2:Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm'.
+Informação: Processando o símbolo 'U3:Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm'.
+Atenção: Nenhuma rede foi encontrada para o símbolo J2 pino 7.
+Atenção: Nenhuma rede foi encontrada para o símbolo J2 pino 8.
+Atenção: Nenhuma rede foi encontrada para o símbolo J3 pino 7.
+Atenção: Nenhuma rede foi encontrada para o símbolo J3 pino 8.
+Atenção: Nenhuma rede foi encontrada para o símbolo J4 pino 7.
+Atenção: Nenhuma rede foi encontrada para o símbolo J4 pino 8.
+Atenção: Nenhuma rede foi encontrada para o símbolo J5 pino 7.
+Atenção: Nenhuma rede foi encontrada para o símbolo J5 pino 8.
+
+
+Informação: Total de avisos: 0, erros: 0.
